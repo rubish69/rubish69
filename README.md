@@ -147,16 +147,6 @@ status    : "Building for devs worldwide 🌍"
 | 🌐 | **rubish.online** — Main portfolio & developer services platform | `HTML` `CSS` `JS` | 🟢 Live | [![Open](https://img.shields.io/badge/Open-00d4ff?style=flat-square)](https://rubish.online) |
 | 📡 | **rubish.infy.uk** — Developer resources, info hub & project docs | `Web` | 🟢 Live | [![Open](https://img.shields.io/badge/Open-00d4ff?style=flat-square)](https://www.rubish.infy.uk) |
 
-### 🔓 Open Source GitHub Repos
-
-| 📦 | Repo | Language | Description |
-|:---:|:-----|:--------:|:------------|
-| 🛡️ | **[DDOS-RUBISH](https://github.com/rubish69/DDOS-RUBISH)** | `Python` | Network automation & security tool |
-| 🤖 | **[AUTOBOT](https://github.com/rubish69/AUTOBOT)** | `JS` | Full automation bot framework |
-| 🎨 | **[D1PT0](https://github.com/rubish69/D1PT0)** | `JavaScript` | Creative JS project |
-| 🏷️ | **[tmx.banner](https://github.com/rubish69/tmx.banner)** | `Python` | Banner generation tool |
-| ⚙️ | **[starter-express-api](https://github.com/rubish69/starter-express-api)** | `JS` | Express API starter template |
-
 </div>
 
 ---
@@ -267,8 +257,6 @@ Dashboard UIs
 
 ## 💡 Fun Facts About Me
 
-<div align="center">
-
 ```javascript
 const mrRubish = {
   realName    : "MR RUBISH",
@@ -288,8 +276,6 @@ const mrRubish = {
   askMeAbout  : ["Bots", "APIs", "Cybersecurity", "Web Dev"],
 };
 ```
-
-</div>
 
 ---
 
